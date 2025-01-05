@@ -12,8 +12,8 @@ import pt.psoft.g1.psoftg1.bookmanagement.model.Book;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2025-01-03T19:40:59+0000",
-    comments = "version: 1.5.5.Final, compiler: javac, environment: Java 17.0.12 (JetBrains s.r.o.)"
+    date = "2025-01-05T22:24:33+0000",
+    comments = "version: 1.5.5.Final, compiler: javac, environment: Java 17.0.12 (Oracle Corporation)"
 )
 @Component
 public class BookViewMapperImpl extends BookViewMapper {

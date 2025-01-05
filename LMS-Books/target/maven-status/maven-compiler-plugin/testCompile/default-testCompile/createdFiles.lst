@@ -1,0 +1,16 @@
+pt\psoft\g1\psoftg1\authormanagement\tests\repository\AuthorRepositoryIntegrationTest.class
+pt\psoft\g1\psoftg1\shared\model\domainService\IdGeneratorHashTest.class
+pt\psoft\g1\psoftg1\bookmanagement\model\TitleTest.class
+pt\psoft\g1\psoftg1\genremanagement\model\GenreTest.class
+pt\psoft\g1\psoftg1\authormanagement\tests\model\AuthorNumberTest.class
+pt\psoft\g1\psoftg1\bookmanagement\model\BookTest.class
+pt\psoft\g1\psoftg1\testutils\JsonHelper.class
+pt\psoft\g1\psoftg1\authormanagement\tests\model\AuthorTest.class
+pt\psoft\g1\psoftg1\authormanagement\tests\services\AuthorServiceImplIT.class
+pt\psoft\g1\psoftg1\bookmanagement\model\IsbnTest.class
+pt\psoft\g1\psoftg1\shared\model\NameTest.class
+pt\psoft\g1\psoftg1\bookmanagement\model\DescriptionTest.class
+pt\psoft\g1\psoftg1\authormanagement\tests\api\AuthorControllerIT.class
+pt\psoft\g1\psoftg1\authormanagement\tests\model\BioTest.class
+pt\psoft\g1\psoftg1\shared\model\IdGeneratorRandomHexTest.class
+pt\psoft\g1\psoftg1\shared\model\PhotoTest.class
